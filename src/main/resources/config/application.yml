@@ -1,0 +1,18 @@
+info:
+  name: micro-stream
+  version: 0.0.0
+  description: Boilerplate for REST Microservice in Java
+  documentation: https://github.com/javaboilerplates/micro-stream
+server:
+  port: 8000
+spring:
+  boot:
+    admin:
+      url: http://localhost:8002
+      username: admin
+      password: admin
+  application:
+    name: ${info.name}
+
+
+
