@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+micro-stream,net.aikaka.javaboilerplates.microstream,ServletInitializer,12,0,0,0,2,0,2,0,2,0
+micro-stream,net.aikaka.javaboilerplates.microstream,MicroStreamApplication,5,3,0,0,2,1,1,1,1,1
+micro-stream,net.aikaka.javaboilerplates.microstream.api,GetSamplesAPI,9,6,0,0,2,3,2,1,2,1
+micro-stream,net.aikaka.javaboilerplates.microstream.service,GetSamplesServiceImpl,46,8,0,0,8,3,4,1,4,1
+micro-stream,net.aikaka.javaboilerplates.microstream.config,SwaggerConfig,0,15,0,0,0,6,0,2,0,2
+micro-stream,net.aikaka.javaboilerplates.microstream.config,ErrorHandlerConfig,2,3,0,0,1,1,1,1,1,1
+micro-stream,net.aikaka.javaboilerplates.microstream.dao,SampleDao,9,0,0,0,4,0,2,0,2,0

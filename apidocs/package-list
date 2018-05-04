@@ -1,0 +1,5 @@
+net.aikaka.javaboilerplates.microstream
+net.aikaka.javaboilerplates.microstream.api
+net.aikaka.javaboilerplates.microstream.config
+net.aikaka.javaboilerplates.microstream.dao
+net.aikaka.javaboilerplates.microstream.service
