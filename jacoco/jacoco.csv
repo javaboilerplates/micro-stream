@@ -5,4 +5,4 @@ micro-stream,net.aikaka.javaboilerplates.microstream.api,GetSamplesAPI,9,6,0,0,2
 micro-stream,net.aikaka.javaboilerplates.microstream.service,GetSamplesServiceImpl,46,8,0,0,8,3,4,1,4,1
 micro-stream,net.aikaka.javaboilerplates.microstream.config,SwaggerConfig,0,15,0,0,0,6,0,2,0,2
 micro-stream,net.aikaka.javaboilerplates.microstream.config,ErrorHandlerConfig,2,3,0,0,1,1,1,1,1,1
-micro-stream,net.aikaka.javaboilerplates.microstream.dao,SampleDao,9,0,0,0,4,0,2,0,2,0
+micro-stream,net.aikaka.javaboilerplates.microstream.dao,SampleDao,0,9,0,0,0,4,0,2,0,2
